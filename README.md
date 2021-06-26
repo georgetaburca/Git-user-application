@@ -1,2 +1,2 @@
-# GitGet-Github-Profile-Finder-
-# GitGet-Github-Profile-Finder
+GitGet - GitHub user profile finder
+Author: Georgeta Burca
