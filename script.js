@@ -9,7 +9,9 @@ function showUser() {
     .then((result) => result.json())
     .then((data) => {
       if (data.message) {
-        document.getElementById("result").innerHTML = `<h6>User NOT FOUND</h6>`;
+        document.getElementById(
+          "result"
+        ).innerHTML = `<h3 style="text-align:center" >USER PROFILE NOT FOUND</h3>`;
       } else {
         document.getElementById(
           "result"
